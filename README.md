@@ -84,6 +84,11 @@ Aqui estão as principais arquiteturas e sistemas que desenvolvi, com foco em es
   * **O que é:** Portal de gestão e login suportado por alta disponibilidade em infraestrutura de nuvem AWS.
   * **Stack:** ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   * 👉 [Acessar Portal](https://d10p43vbhz29k2.cloudfront.net/portal/login)
+ 
+  * 🚌 **App Mobilidade** | *Projeto Transporte & Mobilidade*
+  * **O que é:** Plataforma web voltada para soluções de transporte e mobilidade.
+  * **Stack:** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  * 👉 [Acessar Login da Plataforma](https://projeto-transporte-mobilidade-barratech-sjbs-projects.vercel.app/login)
 
 ---
 
