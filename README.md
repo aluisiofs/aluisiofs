@@ -8,11 +8,13 @@
 
 <br>
 
-<p align="center" style="font-family: 'Share Tech Mono', monospace; color: #00FF00; font-size: 20px;">
-  &gt; [SYS_INFO]: SOBRE O AUTOR E O LABORATÓRIO
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=20&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+%5BSYS_INFO%5D%3A+ALUISIO+FELIPE+SILVA;%3E+%5BSYS_INFO%5D%3A+LOADING+PROFILE...;%3E+%5BSYS_INFO%5D%3A+SOBRE+O+AUTOR;%3E+%5BSYS_INFO%5D%3A+ROOT_ACCESS_VERIFIED" alt="SYS_INFO Animation" />
+  </a>
+</div>
 
-## 🚀 Minha Stack e Ferramentas!
+## 🚀 Stack e Ferramentas!
 
 ### 🛡️ Cibersegurança, Forense & OSINT
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
