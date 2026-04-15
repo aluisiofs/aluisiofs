@@ -73,7 +73,7 @@
 
 ## 🌐  Projetos em Destaque | Plataformas SaaS
 
-Aqui estão as principais arquiteturas e sistemas que desenvolvi, com foco em escalabilidade em nuvem, segurança e experiência do usuário (UX/UI). **Projetos em fase de testes e desenvolvimento - correção de bugs/melhorias**
+Aqui estão as principais arquiteturas e sistemas que desenvolvi, com foco em escalabilidade em nuvem, segurança e experiência do usuário (UX/UI).  * **Projetos em fase de testes e desenvolvimento - correção de bugs/melhorias** *
 
 * 🎯 **Memprega Brasil** | *PWA para Atração e Seleção de Talentos*
   * **O que é:** Plataforma focada nos setores agrícola e urbano. Arquitetura estruturada com regras de segurança em nível de linha (RLS), criptografia de dados sensíveis e Edge Functions para automação.
