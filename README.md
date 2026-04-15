@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/JtBZm3Getg3dqxEXvX/giphy.gif" width="250" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_root%40aluisio%3A~%23+whoami;%3E_Ethical+Hacker+%7C+Cloud+Architect;%3E_Initializing+Arsenal...;%3E_Access+Granted." alt="Terminal Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_root%40aluisio%3A~%23+whoami;%3E_[%2B]+Ethical+Hacker+%7C+Cyber+Sec;%3E_[%2A]+Cloud+Computing+%7C+AWS;%3E_[-]+Software+Development;%3E_[#]+Cloud+Infrastructure;%3E_Initializing+Modules...;%3E_Access+Granted+[%E2%9C%93]" alt="Terminal Typing Effect" />
   </a>
 </div>
 
