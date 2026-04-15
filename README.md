@@ -17,10 +17,22 @@
 ## 🚀 Stack e Ferramentas!
 
 ### 🛡️ Cibersegurança, Forense & OSINT
+
+**Ambiente & Forense de Imagens**
+[![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white)](https://pop.system76.com/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![ExifTool](https://img.shields.io/badge/ExifTool_(Forense)-000000?style=for-the-badge&logo=gnuterminal&logoColor=white)](https://exiftool.org/)
-[![OSINT](https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=spyder-ide&logoColor=white)]()
-[![SIEM](https://img.shields.io/badge/SIEM_(Custom)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![ExifTool](https://img.shields.io/badge/ExifTool_(Metadados)-000000?style=for-the-badge&logo=gnuterminal&logoColor=white)](https://exiftool.org/)
+
+**OSINT & Engenharia Social**
+[![Sherlock](https://img.shields.io/badge/Sherlock_(Footprinting)-2C2C2C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sherlock-project/sherlock)
+[![Maigret](https://img.shields.io/badge/Maigret_(Data_Extraction)-111111?style=for-the-badge&logo=tor&logoColor=white)](https://github.com/soxoj/maigret)
+[![Instaloader](https://img.shields.io/badge/Instaloader_(Scraping)-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instaloader.github.io/)
+[![Waybackpy](https://img.shields.io/badge/Waybackpy_(Cache_Recovery)-000000?style=for-the-badge&logo=internetarchive&logoColor=white)](https://github.com/akamhy/waybackpy)
+
+**Rastreamento de Rede & SIEM**
+[![Grabify IP Logger](https://img.shields.io/badge/Grabify_(IP_Tracking)-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white)](https://grabify.link/)
+[![Terminal Linux](https://img.shields.io/badge/CURL_&_WGET_(Net_Analysis)-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![SIEM](https://img.shields.io/badge/SIEM_(Custom_Architecture)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-E34F26?style=for-the-badge&logo=hackthebox&logoColor=white)]()
 
 ### 💻 Sistemas, Virtualização & Acesso
