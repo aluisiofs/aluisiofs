@@ -18,13 +18,3 @@ Aqui estão as principais arquiteturas e sistemas que desenvolvi, com foco em es
   * 👉 [Acessar Login da Plataforma](https://projeto-transporte-mobilidade-barratech-sjbs-projects.vercel.app/login)
 
 ---
-
-## 💼 Informações Empresariais (MEI)
-
-Serviços em Tecnologia da Informação
-
-* **Serviços:** SaaS, Desenvolvimento Full-Stack, Infraestrutura e Segurança da Informação.
-* **CNPJ:** `64.134.678/0001-40`
-* ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) **Contato:** (47) 99982-4618 | (35) 99855-3011
-
----
